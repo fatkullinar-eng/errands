@@ -1,0 +1,13 @@
+{
+  "name": "errands",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сервис поручений — веб-версия MVP по заказу Weblancer #1265080",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
